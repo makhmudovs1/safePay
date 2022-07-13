@@ -1,0 +1,60 @@
+.header {
+    padding-bottom: 150px;
+}
+
+.nav {
+    padding-top: 20px;
+}
+
+.nav, .menu {
+    align-items: center;
+}
+
+.nav__logo {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 45px;
+}
+
+.nav__safe {
+    color: #081235;
+}
+
+.nav__pay {
+    color: #3347FF;
+}
+
+.menu li {
+    font-style: normal;
+    font-size: 24px;
+    line-height: 30px;
+    margin-right: 20px;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #081235;
+}
+
+.menu .home a {
+    color: #3C67FF;
+}
+
+.nav__btn {
+    background-color: #3C67FF; /* Green */
+    border-radius: 30px;
+    border: none;
+    color: #FBFBFB;
+    padding: 12px 58px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+    display: inline-block;
+    font-size: 24px;
+    line-height: 30.12px;
+}
+
+.nav__btn:hover {
+    background-position: right;
+}

@@ -1,0 +1,52 @@
+.security {
+    padding-top: 100px;
+}
+
+.community {
+    justify-content: space-around;
+}
+
+.simple {
+    text-align: center;
+}
+
+.driven {
+    margin-left: 100px;
+}
+
+.driven img {
+    border-radius: 20px;
+}
+
+.driven h3 {
+    font-size: 40px;
+    line-height: 50px;
+    color: #000F43;
+    margin: 20px 0;
+}
+
+.driven p {
+    font-size: 22px;
+    line-height: 27px;
+    color: #3A3B52;
+}
+
+.community__text {
+    width: 341px;
+}
+
+.community__driven {
+    margin-bottom: 77px;
+}
+
+.driven__text {
+    width: 268px;
+}
+
+.simple__text {
+    width: 326px;
+}
+
+.fast__text {
+    width: 227px;
+}

@@ -1,0 +1,48 @@
+.section {
+    padding-bottom: 100px;
+}
+
+.transfers {
+    justify-content: space-around;
+}
+
+.payments h1 {
+    font-weight: 700;
+    font-size: 78px;
+    line-height: 97.89px;
+    color: #000F43;
+    width: 800px;
+}
+
+.text {
+    color: #3A3B52;
+    font-size: 26px;
+    line-height: 32.63px;
+    width: 736px;
+    margin: 70px 0;
+}
+
+.start, .more {
+    border-radius: 30px;
+    padding: 22px 58px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+    display: inline-block;
+    font-size: 30px;
+    line-height: 30.12px;
+    cursor: pointer;
+}
+
+.start {
+    background-color: #3C67FF;
+    color: #FFF;
+    border: none;
+    margin-right: 55px;
+}
+
+.more {
+    background-color: transparent;
+    color: #3C67FF;
+    border-color: #3C67FF;
+}

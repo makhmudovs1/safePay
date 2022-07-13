@@ -1,0 +1,49 @@
+.footer {
+    padding: 100px 0;
+}
+
+.about h4 {
+    font-size: 40px;
+    line-height: 50px;
+    color: #000F43;
+}
+
+.nav li {
+    margin-bottom: 20px;
+}
+
+.nav li a{
+    text-decoration: none;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000F43;
+    font-weight: 600;
+}
+
+.about__menu, .about__company, .about__follow {
+    margin-right: 100px;
+}
+
+.border{
+    /*content: '';*/
+    /*display: block;*/
+    width: 1450px;
+    border: 3px solid rgba(51, 71, 255, 0.1);
+    margin: 100px auto 0;
+}
+
+.reserve, .design {
+    font-size: 24px;
+    line-height: 30px;
+    color: #000F43;
+    margin-top: 50px;
+}
+
+.design a{
+    text-decoration: none;
+    color: #3C67FF;
+}
+
+.design {
+    margin-left: auto;
+}
